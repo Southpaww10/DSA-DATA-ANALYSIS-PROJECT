@@ -14,11 +14,8 @@ The primary data source used for this project is Amazon case study which contain
 Microsoft Excel was used in completing this project. I was able to do the following;
 
 - Data collection
-
 - Data cleaning
-
 - Data analysis
-
 - Data visualization
 - Pivot
 - Chart/Slicers
@@ -70,6 +67,7 @@ I utized pivot tables, calculated columns, data cleaning, and formulas where nec
 
 ### 13. Which categories have products with the highest discounts?
 ![13   categories of products with the highest discounts](https://github.com/user-attachments/assets/e92a5967-cbda-4999-9b10-ea58e9bead81)
+![SLICER](https://github.com/user-attachments/assets/8bfdba2e-ea4f-404b-aff8-8641af93dc50)
 
 ### 14. Identify the top 5 products in terms of rating and number of reviews combined.
 ![14   top 5 products in terms of rating and number of reviews combined](https://github.com/user-attachments/assets/b7072613-472d-4cf2-a264-7fb8987955c2)
@@ -93,6 +91,18 @@ I utized pivot tables, calculated columns, data cleaning, and formulas where nec
 https://github.com/Southpaww10/DSA-DATA-ANALYSIS-PROJECT/raw/refs/heads/main/Amazon%20case%20study.xlsx
 
 ## INSIGHTS
+#### Discount vs Rating: 
+Discounted products do not always have higher ratings.
+#### Price Range Bucket: 
+Most products fall under the affordable to moderately expensive range.
+#### Revenue Potential: 
+ComputerAccessories and Electronics dominate in potential revenue.
+#### Category-wise Review Count: 
+Electronics and accessories lead in customer engagement.
+#### Top 5 Products: 
+Based on high review count and strong ratings are BOAT, REDMI, TPLINK and AMAZONBASICS.
+#### Discount Percentage by Category: 
+HomeImprovement and Computer&Accessories offered the most generous discounts.
 
 
 
