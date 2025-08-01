@@ -10,7 +10,7 @@ The primary data source used for this project is Amazon case study which contain
 - Customer engagement: user reviews, titles, and content
 - Each row represents a unique product, with aggregated reviewer data stored as comma-separated values
 
-## Tool Used
+## Tool Used :)
 Microsoft Excel was used in completing this project. I was able to do the following;
 
 - Data collection
